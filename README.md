@@ -81,7 +81,7 @@ A scatter plot comparing Actual vs Predicted FWI values demonstrates the model's
 
 ## 📚 Resources
 
-- [Original Dataset (UCI ML Repo)](https://archive.ics.uci.edu/dataset/610/algerian+forest+fires+dataset)
+- The dataset- Included in the repo
 
 ---
 
