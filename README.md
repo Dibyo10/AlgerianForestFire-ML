@@ -79,14 +79,6 @@ A scatter plot comparing Actual vs Predicted FWI values demonstrates the model's
 
 ---
 
-## 🚀 Next Steps
-
-- Explore **Lasso** and **ElasticNet** for feature selection and alternative regularization.
-- Build a unified **Pipeline** for all preprocessing and modeling steps.
-- Try classifying FWI into risk categories for a classification approach.
-
----
-
 ## 📚 Resources
 
 - [Original Dataset (UCI ML Repo)](https://archive.ics.uci.edu/dataset/610/algerian+forest+fires+dataset)
